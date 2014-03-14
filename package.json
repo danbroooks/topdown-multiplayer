@@ -1,0 +1,11 @@
+{
+  "name": "topdown-multiplayer",
+  "version": "0.0.1",
+  "description": "Multiplayer support for topdown.js",
+  "main": "multiplayer.js",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "socket.io": ">=0.9.13"
+  }
+}
